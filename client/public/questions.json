@@ -1,0 +1,53 @@
+[
+    {
+        "question":"1.What does the abbreviation HTML stand for?",
+        "answer1":" HighText Machine Language",
+        "answer2":" HyperText and links Markup Language",
+        "answer3":" HyperText Markup Language",
+        "answer4":" None of these"
+    },
+    {
+        "question":"2.CSS stands for ",
+        "answer1":" Cascade style sheets",
+        "answer2":" Color and style sheets",
+        "answer3":" Cascading style sheets",
+        "answer4":" None of these"
+    },
+    {
+        "question":"3. Who developed the bootstrap?",
+        "answer1":" James Gosling",
+        "answer2":" Mark Jukervich",
+        "answer3":" Dennis Ritchie",
+        "answer4":" Mark Otto and Jacob Thornton"
+    },
+    {
+        "question":"4. Which type of JavaScript language is",
+        "answer1":" Object-Oriented",
+        "answer2":" Object-Based",
+        "answer3":" Assembly-language",
+        "answer4":" High-level"
+    },
+    {
+        "question":"5. Which of the following command is used to install create-react-app?",
+        "answer1":" npm install -g create-react-app",
+        "answer2":" npm install create-react-app",
+        "answer3":" npm install -f create-react-app",
+        "answer4":" install -g create-react-app"
+    },
+    {
+        "question":"6. What does the REPL stand for?",
+        "answer1":" REPL stands for 'Read Eval Print Loop.'",
+        "answer2":" REPL stands for 'Research Eval Program Learn.'",
+        "answer3":" REPL stands for 'Read Earn Point Learn.'",
+        "answer4":" REPL stands for 'Read Eval Point Loop.'"
+    },
+    {
+        "question":"7. What is the full form of SQL?",
+        "answer1":" Structured Query List",
+        "answer2":" Structure Query Language",
+        "answer3":" Sample Query Language",
+        "answer4":" None of these"
+    }
+    
+
+]
